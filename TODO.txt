@@ -1,0 +1,6 @@
+Notes on entrypoints specs:
+- https://packaging.python.org/specifications/entry-points/
+
+- also have a way to expose which parser we are testing?
+
+- tear down codes method (e.g. to close docker)
